@@ -33,7 +33,7 @@ Proyek ini mengembangkan robot pendamping yang dapat mendeteksi tanda-tanda kris
 
 ```bash
 # Clone dan masuk ke direktori
-git clone https://github.com/maybeitsai/suicide-crisis-detection.git
+git clone https://github.com/harrymardika/suicide-crisis-detection.git
 cd "suicide-crisis-detection"
 
 # Install dependencies dengan UV
@@ -194,7 +194,7 @@ python run_model_hailo.py
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/maybeitsai/suicide-crisis-detection.git
+   git clone https://github.com/harrymardika/suicide-crisis-detection.git
    cd "Robot Pencegah Bunuh Diri"
    ```
 
@@ -268,7 +268,7 @@ python run_model_hailo.py
 4. **Clone dan setup project**
 
    ```bash
-   git clone https://github.com/maybeitsai/suicide-crisis-detection.git
+   git clone https://github.com/harrymardika/suicide-crisis-detection.git
    cd suicide-crisis-detection
 
    # Install dependencies (tanpa CUDA packages)
